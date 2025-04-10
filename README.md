@@ -7,5 +7,4 @@ Also included are a modified circuitboard holder (hot glue the arduino to it) an
 Follow the circuit diagram to wire it up.
 
 
-[
-](https://learn.adafruit.com/magic-band-reader/)
+https://learn.adafruit.com/magic-band-reader/
