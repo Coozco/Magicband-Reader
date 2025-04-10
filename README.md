@@ -4,6 +4,8 @@ Included is the files to upload to the raspberry pi after circuitpy is installed
 
 Also included are a modified circuitboard holder (hot glue the arduino to it) and a deeper light ring if you do not get the arduino side profile neopixle strip.
 
+I procured all the electronics from aliexpress for less than $15. A lot cheaper than the adafruit variant. Only difference in doing it this way than going with adafruit is with this version, you do not have to pair any magicbands. It will ready any of them.
+
 Follow the circuit diagram to wire it up.
 
 
