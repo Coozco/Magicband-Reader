@@ -1,1 +1,1 @@
-This setup uses a Raspberry Pi Pico and a Arduino Nano. Along with a PN532 RFID reader, I2S 3W Class D Amplifier Breakout - MAX98357A, 8ohm 1watt mini oval speaker, and a high density RGB 3 pin LED strip. Circuitpy 9.2.4 is installed on the pico.
+This setup uses a Raspberry Pi Pico and a Arduino Nano. Along with a PN532 RFID reader, I2S 3W Class D Amplifier Breakout - MAX98357A, 8ohm 1watt mini oval speaker, and a high density RGB 3 pin LED strip. Circuitpy 9.2.4 is installed on the pico. Power the magicband reader through the Raspberry Pi.
