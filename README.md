@@ -5,3 +5,7 @@ Included is the files to upload to the raspberry pi after circuitpy is installed
 Also included are a modified circuitboard holder (hot glue the arduino to it) and a deeper light ring if you do not get the arduino side profile neopixle strip.
 
 Follow the circuit diagram to wire it up.
+
+
+[
+](https://learn.adafruit.com/magic-band-reader/)
